@@ -1,0 +1,176 @@
+Get Request: https://pokeapi.co/api/v2/pokemon/1
+
+Result: {
+    "abilities": [
+        {
+            "ability": {
+                "name": "overgrow",
+                "url": "https://pokeapi.co/api/v2/ability/65/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "chlorophyll",
+                "url": "https://pokeapi.co/api/v2/ability/34/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 64,
+    "forms": [
+        {
+            "name": "bulbasaur",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/1/"
+        }
+    ],
+
+----------------------------------------------------------------
+
+Get Request: https://pokeapi.co/api/v2/pokemon/27
+
+Result: {
+    "abilities": [
+        {
+            "ability": {
+                "name": "sand-veil",
+                "url": "https://pokeapi.co/api/v2/ability/8/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "sand-rush",
+                "url": "https://pokeapi.co/api/v2/ability/146/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 60,
+    "forms": [
+        {
+            "name": "sandshrew",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/27/"
+        }
+    ],
+
+----------------------------------------------------------------
+
+Get Request: https://pokeapi.co/api/v2/pokemon/54
+
+Result: {
+    "abilities": [
+        {
+            "ability": {
+                "name": "damp",
+                "url": "https://pokeapi.co/api/v2/ability/6/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "cloud-nine",
+                "url": "https://pokeapi.co/api/v2/ability/13/"
+            },
+            "is_hidden": false,
+            "slot": 2
+        },
+        {
+            "ability": {
+                "name": "swift-swim",
+                "url": "https://pokeapi.co/api/v2/ability/33/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 64,
+    "forms": [
+        {
+            "name": "psyduck",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/54/"
+        }
+    ],
+
+----------------------------------------------------------------
+
+Get Request: https://pokeapi.co/api/v2/pokemon/61
+
+Result: {
+    "abilities": [
+        {
+            "ability": {
+                "name": "water-absorb",
+                "url": "https://pokeapi.co/api/v2/ability/11/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "damp",
+                "url": "https://pokeapi.co/api/v2/ability/6/"
+            },
+            "is_hidden": false,
+            "slot": 2
+        },
+        {
+            "ability": {
+                "name": "swift-swim",
+                "url": "https://pokeapi.co/api/v2/ability/33/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 135,
+    "forms": [
+        {
+            "name": "poliwhirl",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/61/"
+        }
+    ],
+
+----------------------------------------------------------------
+
+Get Request: https://pokeapi.co/api/v2/pokemon/220
+
+Result: {
+    "abilities": [
+        {
+            "ability": {
+                "name": "oblivious",
+                "url": "https://pokeapi.co/api/v2/ability/12/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "snow-cloak",
+                "url": "https://pokeapi.co/api/v2/ability/81/"
+            },
+            "is_hidden": false,
+            "slot": 2
+        },
+        {
+            "ability": {
+                "name": "thick-fat",
+                "url": "https://pokeapi.co/api/v2/ability/47/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 50,
+    "forms": [
+        {
+            "name": "swinub",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/220/"
+        }
+    ],
